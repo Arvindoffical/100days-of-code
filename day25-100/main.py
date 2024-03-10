@@ -1,4 +1,3 @@
-
 #Using just file methods
 with open("weather_data.csv") as data_file:
     data = data_file.readlines()
